@@ -40,6 +40,8 @@ public class GameGuesserName {
 
                 }
                 System.out.println("អ្នកជាមនុស្សជំពូកលេខ: " +sum);
+            }else {
+                System.out.println("អ្នកជាមនុស្សជំពូកលេខ: " +number);//if number less than 10
             }
 
             System.out.println("Do You want to check again? press y for yes : ");
